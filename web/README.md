@@ -77,6 +77,3 @@ __Ecoleta__ is a project developed based on the International Environment Week. 
 
 
 ###### Developed on Next Level Week from [RocketSeat](https://rocketseat.com.br) :rocket:.
-
-With ♥ by [Vitor Queiroz](https://www.linkedin.com/in/vitor-queiroz-4b32131a3/)!
->>>>>>> 7c21ad1855d1ff7f6744b0b518930eb1e3f9249c
